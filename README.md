@@ -54,7 +54,13 @@ john --show myhashes.txt
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
 ## OUTPUT:
-Cracked Passwords from Hash File
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 08-10-2025 08_28_27" src="https://github.com/user-attachments/assets/efad7ae2-596a-4076-a662-447a80f93a8b" />
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 08-10-2025 08_28_21" src="https://github.com/user-attachments/assets/a638d74b-b835-4349-b907-56ef3f3ecdb2" />
+![WhatsApp Image 2025-10-08 at 08 47 50_4e6b5de5](https://github.com/user-attachments/assets/813e3f20-0957-47f7-9d2a-7e0dcc0de71c)
+![WhatsApp Image 2025-10-08 at 08 48 03_0a9a5ed3](https://github.com/user-attachments/assets/7bdfe643-471c-41ec-8ce4-3718db80b62d)
+
+
+
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
